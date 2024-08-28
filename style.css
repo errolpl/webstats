@@ -15,12 +15,16 @@ body {
   align-items: center;
   margin-top: 9rem;
   gap: 2rem;
+  width: 100%;
+  max-width: 1200px;
+  padding: 2.5rem;
 }
 
 .vistors {
   background-color: #7000ff;
   border-radius: 0.625em;
   padding: 2.5rem;
+  width: 100%;
 }
 
 h1 {
@@ -40,6 +44,7 @@ h3 {
   padding: 2.5rem;
   border: #2e2e2e solid 3px;
   border-radius: 0.625rem;
+  width: 100%;
 }
 
 .views,
@@ -70,4 +75,6 @@ a.cta {
   color: white;
   background-color: #7000ff;
   border-radius: 0.625rem;
+  width: 100%;
+  padding: 1rem 5rem;
 }
