@@ -45,6 +45,7 @@ h3 {
   border: #2e2e2e solid 3px;
   border-radius: 0.625rem;
   width: 100%;
+  gap: 2rem;
 }
 
 .views,
@@ -66,6 +67,7 @@ p {
   text-transform: none;
   color: #878787;
   font-size: 0.875rem;
+  text-align: center;
 }
 
 a.cta {
